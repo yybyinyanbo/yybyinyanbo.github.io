@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Go Notes on 尹彦博的简历</title>
+    <title>Go Notes on yinyanbo&#39;s blog</title>
     <link>https://www.yinyanbo.com/notes/go/</link>
-    <description>Recent content in Go Notes on 尹彦博的简历</description>
+    <description>Recent content in Go Notes on yinyanbo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.yinyanbo.com/notes/go/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Introduction</title>
